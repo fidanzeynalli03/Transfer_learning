@@ -1,0 +1,1 @@
+#This project focuses on classifying different types of food using Transfer Learning. Instead of training a model from scratch, a pre-trained Convolutional Neural Network (CNN) is fine-tuned on a food dataset containing images of various food categories. 
